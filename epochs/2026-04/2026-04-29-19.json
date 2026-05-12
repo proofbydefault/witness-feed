@@ -1,0 +1,12 @@
+{
+  "epoch_number": 3,
+  "sealed_at": "2026-05-12T04:19:51.045Z",
+  "epoch_start_at": "2026-04-29T19:00:00.000Z",
+  "epoch_end_at": "2026-04-29T20:00:00.000Z",
+  "receipt_count": 3,
+  "merkle_root": "5743d141b9c5bf66c931f178b5bde22c0118d8405dcbc49deb03a7e9d416e213",
+  "signed_root_hex": "c1ca3199afdfb050aba5373dd433c2a0099d4be7e07cba92a0ab0f771bbf643ed9fd5cc2f50d657ba2402729e6ba3d6f4b4d6d5e97d8a8ba5af4064204037a02",
+  "signing_pubkey_hex": "b525adfa0035d5c7351b514a0316142586de9468ec5ee3b708cff0c4585b5036",
+  "prev_epoch_number": 2,
+  "prev_epoch_root": "e469c7b060160ceb40a87b073b9792de9027a9a50bf1ef738d162eddd071b068"
+}
