@@ -1,0 +1,13 @@
+{
+  "chain": "decision",
+  "epoch_number": 92,
+  "sealed_at": "2026-07-24T00:08:15.487Z",
+  "epoch_start_at": "2026-06-12T15:00:00.000Z",
+  "epoch_end_at": "2026-06-12T16:00:00.000Z",
+  "receipt_count": 3,
+  "merkle_root": "1849d6c2a6c856551019b9d94f5823469dab201097547a476a20fabb4fcb4085",
+  "signed_root_hex": "8c803396d4f9d27aa42f8303f6d776ae9f9bb33bf3ba805ef23637fc03f9ce38e0ae29cdc734017b411706ce4d657c514f73c5836c658da49b41a9602cd5dc04",
+  "signing_pubkey_hex": "b525adfa0035d5c7351b514a0316142586de9468ec5ee3b708cff0c4585b5036",
+  "prev_epoch_number": 91,
+  "prev_epoch_root": "f564a2ea347e784851482238d01fdf8b1e499172d379c1ddc1814fcde37447c1"
+}
