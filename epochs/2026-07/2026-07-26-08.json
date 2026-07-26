@@ -1,0 +1,13 @@
+{
+  "chain": "operator",
+  "epoch_number": 382,
+  "sealed_at": "2026-07-26T09:05:51.440Z",
+  "epoch_start_at": "2026-07-26T08:00:00.000Z",
+  "epoch_end_at": "2026-07-26T09:00:00.000Z",
+  "receipt_count": 96,
+  "merkle_root": "7899ac782469e3511a3719103746e0b3ce449cc36fb26e04d289ee3412cdb967",
+  "signed_root_hex": "ee31d983075a21a6a3aba6f3eac0c5fcd376bfe69baf444de4072c5f53e198595091f806494a5656af16664f8f19e16b6bf2f74c29f135e32748ae08c2454601",
+  "signing_pubkey_hex": "b525adfa0035d5c7351b514a0316142586de9468ec5ee3b708cff0c4585b5036",
+  "prev_epoch_number": 381,
+  "prev_epoch_root": "1da99b9915d5f287d27e9764e197efd701bc80581026bcf88e9949fee35e6b28"
+}
